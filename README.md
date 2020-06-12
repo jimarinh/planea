@@ -14,7 +14,7 @@ de contenidos curriculares o *sílabos*, la revisión de coherencia y consistenc
 curricular, la aprobación de los contenidos curriculares, el acceso público de la información, 
 la evaluación semestral de dichos contenidos, y el control de versiones de los *sílabos*.  
 
-En **PLANEA**, en lugar de usar documentos elaborados en *herramientas ofimáticas* como en el enfoque tradicional, 
+En **PLANEA**, en lugar de usar documentos elaborados en *herramientas ofimáticas*, como en el enfoque tradicional, 
 se emplean módulos de captura de información que permiten analizar la consistencia de la información 
 y generar automáticamente documentos y reportes. 
 
@@ -83,7 +83,9 @@ y MySQL.
 - Descargue **PLANEA** del repositorio GitHUB y descomprima los archivos. Esto genera la siguiente
 estructura de archivos: '
   >	/doc
+  
   >	/web-server
+  
   >	/sql-server
 
 - Copie todos los archivos de la carpeta `/web-server`, con el código fuente de **PLANEA**, en su
@@ -109,6 +111,6 @@ estructura de archivos: '
   la barra de logos y colores de la plataforma.
 
 
-**PLANEA** ya ha quedado instalado en su servidor y ser accedido a través del enlace
+**PLANEA** ya ha quedado instalado en su servidor y puede ser accedido a través del enlace
 `myserver.org/planea` en su navegador Web.  Use como nombre de usuario `root@planea` y contraseña `0`.
 
