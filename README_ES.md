@@ -107,7 +107,7 @@ estructura de archivos:
   coincidir con los valores configurados al crear la base de datos en el paso 3. En muchos
   servidores Web, el campo `$servername` se puede dejar con el valor `localhost`.
   
-- Opcionalmente puede modificar los archivos `planea_logosbar` y `planea.css` para modificar 
+- Opcionalmente puede modificar los archivos `planea_logosbar.php`, `index.html` y `planea.css` para modificar 
   la barra de logos y colores de la plataforma.
 
 
