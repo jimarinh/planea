@@ -115,7 +115,7 @@ file structure:
   match the values ​​configured when creating the database in step 3. In many
   Web servers, the `$servername` field can be left with the `localhost` value.
   
-- Optionally you can modify the `planea_logosbar` and `planea.css` files to customize 
+- Optionally you can modify the `planea_logosbar.php`, `index.html` and `planea.css` files to customize 
   the logos' bar and color theme.
   
  
